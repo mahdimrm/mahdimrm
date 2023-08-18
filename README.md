@@ -3,7 +3,7 @@
 
  <h1 align="center">Where U Can Find me </h1>
 
-- :link:: [![Linkedin Badge](https://img.shields.io/badge/-MehdiBabalui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-babalui-554009260 )
+- :link: [![Linkedin Badge](https://img.shields.io/badge/-MehdiBabalui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-babalui-554009260 )
 <br>
 
 
