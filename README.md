@@ -4,8 +4,8 @@
  <h1 align="center">Where U Can Find me </h1>
 
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-- :link: [![Linkedin Badge](https://img.shields.io/badge/-MehdiBabalui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-babalui-554009260 )
-<br>
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 
 
