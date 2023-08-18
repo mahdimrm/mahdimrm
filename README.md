@@ -3,11 +3,7 @@
 
  <h1 align="center">Where U Can Find me </h1>
 
-<img src="https://img.shields.io/badge/Mrm20201?style=for-the-badge&logo=telegram&logoColor=white" />
-
-<img src="https://img.shields.io/badge/mahdi-babalui-554009260?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/mahdi_babalui?style=for-the-badge&logo=instagram&logoColor=white"/>
+- :mailbox: [![Linkedin Badge](https://img.shields.io/badge/-MehdiBabalui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-babalui-554009260 )
 
 
 ![](https://github-readme-stats.vercel.app/api?username=mahdimrm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
