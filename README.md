@@ -4,8 +4,8 @@
  <h1 align="center">Where U Can Find me </h1>
 
 - :mailbox: [![Linkedin Badge](https://img.shields.io/badge/-MehdiBabalui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-babalui-554009260 )
- - :mailbox: [![Telegram Badge](https://img.shields.io/badge/-MehdiBabalui-green?style=flat&logo=Telegram&logoColor=white)](https://www.telegram.com/Mrm20201 )
-   -:mailbox: [![Instagram Badge](https://img.shields.io/badge/-MehdiBabalui-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/Mahdi_Babalui )
+- :mailbox: [![Telegram Badge](https://img.shields.io/badge/-MehdiBabalui-green?style=flat&logo=Telegram&logoColor=white)](https://www.telegram.com/Mrm20201 )
+-:mailbox: [![Instagram Badge](https://img.shields.io/badge/-MehdiBabalui-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/Mahdi_Babalui )
 
 
 ![](https://github-readme-stats.vercel.app/api?username=mahdimrm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
