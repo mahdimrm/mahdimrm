@@ -3,6 +3,8 @@
 
  <h1 align="center">Where U Can Find me </h1>
 
+![telegram](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon mahd>&logoColor=<Logo Color>)
+- :link: [![Telegram Badge](https://img.shields.io/badge/Telegram-Mrm20201?style=for-the-badge&logo=telegram&logoColor=white)
 - :link: [![Linkedin Badge](https://img.shields.io/badge/-MehdiBabalui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-babalui-554009260 )
 <br>
 
