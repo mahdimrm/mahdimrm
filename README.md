@@ -1,5 +1,10 @@
  <h1 align="center">Hey There, This Is Mehdi Babalui ⚡</h1>
 
+
+
+![](https://github-readme-stats.vercel.app/api?username=mahdimrm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mahdimrm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdimrm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15)
 <!--
 **mahdimrm/mahdimrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
