@@ -8,7 +8,7 @@
 :mailbox: [![Instagram Badge](https://img.shields.io/badge/-MehdiBabalui-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/Mahdi_Babalui )
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdimrm&show_icons=true&theme=radical)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdimrm&show_icons=true&theme=tokyonight)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahdimrm&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdimrm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15)
 
