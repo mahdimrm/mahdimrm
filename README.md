@@ -4,8 +4,6 @@
 </div>
  <h3 align="center">A Simple Front And BackEnd Developer From Iran  </h1>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdimrm&label=Profile%20views&color=0e75b6&style=flat" alt="mahdimrm" /> </p>
-
  <h1 align="center">Where U Can Find me </h1>
 
 - :mailbox: [![Linkedin Badge](https://img.shields.io/badge/-MehdiBabalui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-babalui-554009260 )
